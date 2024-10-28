@@ -1,5 +1,5 @@
 
-# EMPACT
+# EMPIRE - Environment and Maturity Program Insight through Robotic Engines
 Disclaimer
 
 EMPIRE is an independent, community-driven project and is not officially endorsed by Arizona State University or the US Department of Energy. This tool is based on the original EMPACT project by Craig Haseler, https://github.com/cahaseler/EMPACT
